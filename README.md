@@ -1,1 +1,1 @@
-# Fianance-Tribe
+# FinanceTribe
